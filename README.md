@@ -27,8 +27,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40">
 </span>
+
+---
  
-### :fire: My Stats :
+## My Stats
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StephenB92&theme=tokyonight">
 <img src="https://github-profile-trophy.vercel.app/?username=StephenB92&theme=dracula">
 
