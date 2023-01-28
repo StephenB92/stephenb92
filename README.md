@@ -2,13 +2,14 @@
 ---
 
 #### I am a Full Stack Software developer from Ireland, with an interest in Data Analytics and Machine Learning. I work with HTML5, CSS3, JavaScript, Python and a variety of relevant frameworks/libraries. I have recently completed a Diploma in Full Stack Software Development, with a specialisation in Predictive Analytics, at the Code Institute. Before changing careers into software development, I worked in the legal industry for 8 years and I have a Bachelor's degree in Law. While I enjoyed my career as a legal professional, I have always had a fascination with technology and recently decided to pursue software development, first as a hobby and now as a career. From writing my first line of code, to building my first app, I have loved every step of the learning process and will continue to learn every day.
----
 
 <div>
   <a href="https://www.linkedin.com/in/stephen-brereton-9b762910a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
+ 
+ ---
  
  ## Languages, Frameworks and Tools
  
