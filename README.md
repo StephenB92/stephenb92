@@ -31,12 +31,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40">
 </span>
 
----
- 
-## My Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StephenB92&theme=tokyonight">
-<img src="https://github-profile-trophy.vercel.app/?username=StephenB92&theme=dracula">
-
 <!--
 **StephenB92/stephenb92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
